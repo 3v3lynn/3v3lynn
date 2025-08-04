@@ -9,10 +9,9 @@
 
 ---
 
-<h1 align="center">𝔈𝔳𝔢𝔩𝔶𝔫𝔫</h1>
-
-<div align="center" style="background:rgba(255,255,255,0.2);border-radius:16px;padding:16px;backdrop-filter:blur(8px);">
-𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯<br>
+<div align="center" style="background-color:#000000; color:#ff003c; border-radius:16px; padding:20px; display:inline-block; font-weight:bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h1 style="margin:0; font-size:3rem;">𝔈𝔳𝔢𝔩𝔶𝔫𝔫 -</h1>
+  <p style="margin:5px 0 0; font-size:1.5rem; letter-spacing: 2px;">𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯</p>
 </div>
 
 ---
@@ -31,10 +30,16 @@
 
 ---
 
-<h2 align="center">ℭ𝔬𝔫𝔱𝔞𝔠𝔱𝔰</h2>
-<p align="center">
-  <a href="mailto:ladyevelynn2005@gmail.com"><img src="https://img.shields.io/badge/Email-0078d4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/3v3lynn/)"><img src="https://img.shields.io/badge/LinkedIn-40a4df?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<h2 align="center" style="color:#ff003c; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  ℭ𝔬𝔫𝔱𝔞𝔠𝔱𝔰
+</h2>
+<p align="center" style="background-color:#000000; display: inline-block; padding: 12px 24px; border-radius: 16px;">
+  <a href="mailto:ladyevelynn2005@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:12px;">
+    <img src="https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/3v3lynn/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-ff003c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
