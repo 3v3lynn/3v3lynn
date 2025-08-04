@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/3676069.jpg&color=0e2439&height=150&section=header&text=3v3lynn&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://wallpaperaccess.com/full/3676069.jpg" width="100%">
 </p>
 
 <p align="center">
