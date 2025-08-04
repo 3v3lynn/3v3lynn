@@ -10,8 +10,7 @@
 ---
 
 <div align="center" style="background-color:#000000; color:#ff003c; border-radius:16px; padding:20px; display:inline-block; font-weight:bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <h1 style="margin:0; font-size:3rem;">𝔈𝔳𝔢𝔩𝔶𝔫𝔫 -</h1>
-  <p style="margin:5px 0 0; font-size:1.5rem; letter-spacing: 2px;">𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯</p>
+  <h1 style="margin:0; font-size:3rem;">𝔈𝔳𝔢𝔩𝔶𝔫𝔫 - 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯</h1>
 </div>
 
 ---
