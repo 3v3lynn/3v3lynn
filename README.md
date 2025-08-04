@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Cool-Dev-blueviolet?style=for-the-badge">
 </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/w1G9B7W.png" width="70%" style="border-radius:16px;opacity:0.85;box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);backdrop-filter:blur(8px);" alt="Aero Glass Visual"/>
-</div>
-
 ---
 
 <h2 align="center">🖥️ About Me</h2>
@@ -40,7 +36,3 @@ Let's connect!
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/6qUVHfX.gif" width="300px" style="border-radius:16px;opacity:0.8;box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);"/>
-</p>
