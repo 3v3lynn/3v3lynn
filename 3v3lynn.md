@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  ![Web](https://img.shields.io/badge/Web-ff003c?style=flat&labelColor=000000)
-  ![Cibersecurity](https://img.shields.io/badge/Cibersecurity-ff003c?style=flat&labelColor=000000)
+  <img src="https://img.shields.io/badge/Web-ff003c?style=flat&labelColor=000000" alt="Web" />
+  <img src="https://img.shields.io/badge/Cibersecurity-ff003c?style=flat&labelColor=000000" alt="Cibersecurity" />
 </p>
 
 ---
