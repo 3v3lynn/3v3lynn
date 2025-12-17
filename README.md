@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-ff003c?style=for-the-badge&labelColor=000000&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/React-ff003c?style=for-the-badge&labelColor=000000&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-ff003c?style=for-the-badge&labelColor=000000&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-ff003c?style=for-the-badge&labelColor=000000&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-ff003c?style=for-the-badge&labelColor=000000&logo=mysql&logoColor=white" />
 </p>
 
