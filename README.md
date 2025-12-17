@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/3v3lynn/3v3lynn/blob/main/3676069.jpg" width="100%">
+  <img src="https://github.com/3v3lynn/3v3lynn/blob/main/wp9667031-aesthetic-black-desktop-4k-wallpapers.jpg" width="100%">
 </p>
 
 <p align="center">
