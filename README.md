@@ -1,7 +1,18 @@
 <p align="center">
-  <img src="https://github.com/3v3lynn/3v3lynn/blob/main/wp9667031-aesthetic-black-desktop-4k-wallpapers.jpg" width="100%">
+  <img src="https://github.com/3v3lynn/3v3lynn/blob/main/wp9667031-aesthetic-black-desktop-4k-wallpapers.jpg" width="520"/>
 </p>
 
-<div align="center" style="background-color:#000000; color:#ff003c; border-radius:16px; padding:20px; display:inline-block; font-weight:bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <h1 style="margin:0; font-size:3rem;">𝐄𝐯𝐞𝐥𝐲𝐧𝐧</h1>
-</div>
+## Evelynn — 3v3lynn
+
+I build things that work, feel intentional, and are meant to last.  
+Full Stack Developer & Cybersecurity student.
+
+My focus is on web development, automation, and small systems where structure and clarity matter as much as functionality.
+
+I value simplicity, purpose, and learning through building.
+
+---
+
+<p align="center">
+  <sub>Quiet code. Clear intent.</sub>
+</p>
