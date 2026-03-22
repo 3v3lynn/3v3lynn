@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/3v3lynn/3v3lynn/main/ce5d84f2809a77fcc0970e33f81d6a6e.gif" height="180px" />
-</p>
+
 
 <h1 align="center">
   Evelynn — 3v3lynn 
